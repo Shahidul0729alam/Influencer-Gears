@@ -1,0 +1,47 @@
+/* -----------------Google-fonts------------ */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.Quality{
+    display: flex;
+    grid-column-gap:40px;
+}
+.Impress{
+    width: 582px;
+    height: 270px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.Impress .skill{
+    font-size: 50px;
+}
+.efficiency{
+    width: 475px;
+    height: 475px;
+}
+.efficiency img{
+    width: 440px;
+    height: 414px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding : 10px 24px 10px 24px;
+    border-radius: 41px;
+    color: wheat;
+
+}
+
+
+/* -------------------company-logo------------------------- */
+.company-logo{
+    display: flex;
+    width: 986.47px;
+    height: 39.61px;
+    margin-left: 227px;
+    justify-content: center;
+    grid-column-gap: 40px;
+
+   
+}
